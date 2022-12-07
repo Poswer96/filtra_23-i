@@ -15,4 +15,5 @@ Este repositorio se encuentra actualizandose (2022.12.07) por lo que algunos enl
 
 
 [Licencia (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
+
 [Dr. Omar Piña Ramírez](https://www.researchgate.net/profile/Omar_Pina-Ramirez) 
