@@ -6,12 +6,16 @@ Este repositorio se encuentra actualizandose (2022.12.07) por lo que algunos enl
 
 ---
 # Contenido
-## Introducción
+## Contexto
 
-1. [Números complejos](src/Introducción/Numeros%20Complejos.ipynb)
-1. [Sistemas Lineales Inveriantes en el Tiempo](src/Introducción/Sistemas%20Lineales%20Inveriantes%20en%20el%20Tiempo.ipynb)
-1. [Espectro de frecuencias de una señal](src/Introducción/Espectro%20de%20frecuencias%20de%20una%20señal.ipynb)
-1. [Diagramas de Bode](src/Introducción/Diagramas%20de%20Bode.ipynb)
+1. [Números complejos](src/Conocimientos_Previos/Numeros%20Complejos.ipynb)
+1. [Sistemas Lineales Inveriantes en el Tiempo](src/Conocimientos_Previos/Sistemas%20Lineales%20Inveriantes%20en%20el%20Tiempo.ipynb)
+1. [Espectro de frecuencias de una señal](src/Conocimientos_Previos/Espectro%20de%20frecuencias%20de%20una%20señal.ipynb)
+1. [Diagramas de Bode](src/Conocimientos_Previos/Diagramas%20de%20Bode.ipynb)
+
+## Introducción al Filtrado Analógico
+1. [Funciones de transferencia de filtros analógicos](src/Introduccion/Funciones_Transferencia_Filtros.ipynb)
+1. [Diseño heurístico de filtros pasa-bajas](src/Introduccion/Diseno_Heuristico_Filtros_Pasa_Bajas.ipynb)
 
 
 [Licencia (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
