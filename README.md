@@ -17,6 +17,9 @@ Este repositorio se encuentra actualizandose (2022.12.07) por lo que algunos enl
 1. [Funciones de transferencia de filtros analógicos](src/Introduccion/Funciones_Transferencia_Filtros.ipynb)
 1. [Diseño heurístico de filtros pasa-bajas](src/Introduccion/Diseno_Heuristico_Filtros_Pasa_Bajas.ipynb)
 
+## Filtros Analógicos
+### Aproximación Butterworth
+1. [Formulación y diseño de filtros pasa-bajas](src/Aproximacion_Butterworth/Filtro_Pasa_Bajas.ipynb)
 
 [Licencia (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
 
